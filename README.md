@@ -1,2 +1,2 @@
 # paper_list
-some paper about  NLP and Machine learing 
+some papers about  NLP and Machine learing 
